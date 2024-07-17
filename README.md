@@ -1,2 +1,3 @@
 # ATIVIDADES DA FACULDADE
-Aqui possui alguns documentos e códigos feitos para a faculdade, na qual o principal objetivo é o estudo.
+Durante o período da faculdade são apresentado algumas atividades para resolução e aprendizado.
+Aqui serão adicionados algumas dessas atividades.
